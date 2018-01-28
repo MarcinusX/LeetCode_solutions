@@ -1,4 +1,4 @@
-# [Two Sum](https://leetcode.com/problems/two-sum/description/) <kbd>[easy](https://github.com/MarcinusX/LeetCode_solutions/issues?utf8=%E2%9C%93&q=label%3Aeasy+)</kbd>
+# [Two Sum](https://leetcode.com/problems/two-sum/description/) [Easy]
 
 Given an array of integers, return **indices** of the two numbers such that they add up to a specific target.
 
