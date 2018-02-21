@@ -14,7 +14,7 @@ Here are some examples. Inputs are in the left-hand column and its corresponding
 
 `1,1,5` → `1,5,1`
 
-## [Java solution](https://leetcode.com/submissions/detail/141749297/)
+## [Java solution](https://leetcode.com/submissions/detail/141750118/)
 ```
 class Solution {
     public void nextPermutation(int[] nums) {
@@ -25,7 +25,7 @@ class Solution {
         int indexLeft = -1;
         int indexRight = -1;
         
-        for (int mainIndex = nums.length-1; mainIndex > -1; mainIndex--) {
+        for (int mainIndex = nums.length-1; mainIndex > indexLeft; mainIndex--) {
             for (int index = mainIndex-1; index > -1; index--) {
                 if (nums[mainIndex] - nums[index] > 0) {
                     if (index > indexLeft) {
