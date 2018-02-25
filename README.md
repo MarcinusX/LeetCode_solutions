@@ -24,6 +24,13 @@ My [LeetCode profile](https://leetcode.com/szaek/).
 * [Longest Palindromic Substring](https://github.com/MarcinusX/LeetCode_solutions/blob/master/longest-palindromic-substring.md)
 * [Longest Substring Without Repeating Characters](https://github.com/MarcinusX/LeetCode_solutions/blob/master/longest-substring-without-repeating-characters.md)
 * [Add Two Numbers](https://github.com/MarcinusX/LeetCode_solutions/blob/master/add-two-numbers.md)
+* [Swap Nodes in Pairs](https://github.com/MarcinusX/LeetCode_solutions/blob/master/swap-nodes-in-pairs.md)
+* [Permutations](https://github.com/MarcinusX/LeetCode_solutions/blob/master/permutations.md)
+* [Next Permutation](https://github.com/MarcinusX/LeetCode_solutions/blob/master/next-permutation.md)
+* [Search for a Range](https://github.com/MarcinusX/LeetCode_solutions/blob/master/search-for-a-range.md)
+* [Search in Rotated Sorted Array](https://github.com/MarcinusX/LeetCode_solutions/blob/master/search-in-rotated-sorted-array.md)
+* [Valid Sudoku](https://github.com/MarcinusX/LeetCode_solutions/blob/master/valid-sudoku.md)
+
 
 ## Easy
 * [Find All Anagrams in a String](https://github.com/MarcinusX/LeetCode_solutions/blob/master/find-all-anagrams-in-a-string.md)
@@ -41,5 +48,5 @@ My [LeetCode profile](https://leetcode.com/szaek/).
 * [Search Insert Position](https://github.com/MarcinusX/LeetCode_solutions/blob/master/search-insert-position.md)
 * [Two Sum](https://github.com/MarcinusX/LeetCode_solutions/blob/master/two-sum.md)
 * [Valid Parentheses](https://github.com/MarcinusX/LeetCode_solutions/blob/master/valid-parenthesis.md)
-
+* [Word Pattern](https://github.com/MarcinusX/LeetCode_solutions/blob/master/word-pattern.md)
 
