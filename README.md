@@ -30,6 +30,12 @@ My [LeetCode profile](https://leetcode.com/szaek/).
 * [Search for a Range](https://github.com/MarcinusX/LeetCode_solutions/blob/master/search-for-a-range.md)
 * [Search in Rotated Sorted Array](https://github.com/MarcinusX/LeetCode_solutions/blob/master/search-in-rotated-sorted-array.md)
 * [Valid Sudoku](https://github.com/MarcinusX/LeetCode_solutions/blob/master/valid-sudoku.md)
+* [Binary Tree Level Order Traversal](https://github.com/MarcinusX/LeetCode_solutions/blob/master/binary-tree-level-order-traversal.md)
+* [Group Anagrams](https://github.com/MarcinusX/LeetCode_solutions/blob/master/group-anagrams.md)
+* [Rotate Image](https://github.com/MarcinusX/LeetCode_solutions/blob/master/rotate-image.md)
+* [Set Matrix Zeroes](https://github.com/MarcinusX/LeetCode_solutions/blob/master/set-matrix-zeroes.md)
+* [Subsets](https://github.com/MarcinusX/LeetCode_solutions/blob/master/subsets.md)
+* [Validate Binary Search Tree](https://github.com/MarcinusX/LeetCode_solutions/blob/master/validate-binary-search-tree.md)
 
 
 ## Easy
@@ -49,4 +55,4 @@ My [LeetCode profile](https://leetcode.com/szaek/).
 * [Two Sum](https://github.com/MarcinusX/LeetCode_solutions/blob/master/two-sum.md)
 * [Valid Parentheses](https://github.com/MarcinusX/LeetCode_solutions/blob/master/valid-parenthesis.md)
 * [Word Pattern](https://github.com/MarcinusX/LeetCode_solutions/blob/master/word-pattern.md)
-
+* [Best Time to Buy and Sell Stock](https://github.com/MarcinusX/LeetCode_solutions/blob/master/best-time-to-buy-and-sell-stock.md)
