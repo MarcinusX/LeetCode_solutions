@@ -1,4 +1,4 @@
-# [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
+# [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) [Easy]
 
 Given a linked list, determine if it has a cycle in it.
 
