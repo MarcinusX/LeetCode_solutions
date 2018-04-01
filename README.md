@@ -8,14 +8,15 @@ For every task there is an Github issue. Each issue has difficulty label.
 My [LeetCode profile](https://leetcode.com/szaek/).
 
 ## Statistics:
-* Hard: 2
-* Medium: 34
-* Easy: 21
-* **Total: 57** 
+* Hard: 3
+* Medium: 38
+* Easy: 30
+* **Total: 71** 
 
 ## Hard (not perfect solutions)
 * [Median of Two Sorted Arrays](https://github.com/MarcinusX/LeetCode_solutions/blob/master/median-of-two-sorted-arrays.md)
 * [Merge k sorted lists](https://github.com/MarcinusX/LeetCode_solutions/blob/master/merge-k-sorted-list.md)
+* [Trapping Rain Water](https://github.com/MarcinusX/LeetCode_solutions/blob/master/trapping-rain-water.md)
 
 ## Medium
 * [3sum Closest](https://github.com/MarcinusX/LeetCode_solutions/blob/master/3sum-closest.md)
@@ -52,7 +53,10 @@ My [LeetCode profile](https://leetcode.com/szaek/).
 * [Word Break](https://github.com/MarcinusX/LeetCode_solutions/blob/master/word-break.md)
 * [Word Ladder](https://github.com/MarcinusX/LeetCode_solutions/blob/master/word-ladder.md)
 * [Binary Tree Right Side View](https://github.com/MarcinusX/LeetCode_solutions/blob/master/binary-tree-right-side-view.md)
-
+* [Find All Duplicates in an Array](https://github.com/MarcinusX/LeetCode_solutions/blob/master/find-all-duplicates-in-an-array.md)
+* [Insert Delete GetRandom O(1)](https://github.com/MarcinusX/LeetCode_solutions/blob/master/insert-delete-getrandom-o1.md)
+* [Jump Game](https://github.com/MarcinusX/LeetCode_solutions/blob/master/jump-game.md)
+* [Partition Labels](https://github.com/MarcinusX/LeetCode_solutions/blob/master/partition-labels.md)
 
 ## Easy
 * [Find All Anagrams in a String](https://github.com/MarcinusX/LeetCode_solutions/blob/master/find-all-anagrams-in-a-string.md)
@@ -76,3 +80,14 @@ My [LeetCode profile](https://leetcode.com/szaek/).
 * [Merge Two Binary Trees](https://github.com/MarcinusX/LeetCode_solutions/blob/master/merge-two-binary-trees.md)
 * [Min Stack](https://github.com/MarcinusX/LeetCode_solutions/blob/master/min-stack.md)
 * [Pascal's Triangle ||](https://github.com/MarcinusX/LeetCode_solutions/blob/master/pascals-triangle-ii.md)
+* [Count Primes](https://github.com/MarcinusX/LeetCode_solutions/blob/master/count-primes.md)
+* [Intersection of Two Linked Lists](https://github.com/MarcinusX/LeetCode_solutions/blob/master/intersection-of-two-linked-lists.md)
+* [Length of Last Word](https://github.com/MarcinusX/LeetCode_solutions/blob/master/length-of-last-word.md)
+* [Maximum Subarray](https://github.com/MarcinusX/LeetCode_solutions/blob/master/maximum-subarray.md)
+* [Merge Sorted Array](https://github.com/MarcinusX/LeetCode_solutions/blob/master/merge-sorted-array.md)
+* [Reverse Linked List](https://github.com/MarcinusX/LeetCode_solutions/blob/master/reverse-linked-list.md)
+* [Rotate array](https://github.com/MarcinusX/LeetCode_solutions/blob/master/rotate-array.md)
+* [Symmetric Tree](https://github.com/MarcinusX/LeetCode_solutions/blob/master/symmetric-tree.md)
+* [Two Sum II - Input array is sorted](https://github.com/MarcinusX/LeetCode_solutions/blob/master/two-sum-ii-input-array-is-sorted.md)
+
+
