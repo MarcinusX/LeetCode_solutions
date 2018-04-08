@@ -9,9 +9,9 @@ My [LeetCode profile](https://leetcode.com/szaek/).
 
 ## Statistics:
 * Hard: 3
-* Medium: 38
-* Easy: 30
-* **Total: 71** 
+* Medium: 44
+* Easy: 31
+* **Total: 78** 
 
 ## Hard (not perfect solutions)
 * [Median of Two Sorted Arrays](https://github.com/MarcinusX/LeetCode_solutions/blob/master/median-of-two-sorted-arrays.md)
@@ -57,6 +57,12 @@ My [LeetCode profile](https://leetcode.com/szaek/).
 * [Insert Delete GetRandom O(1)](https://github.com/MarcinusX/LeetCode_solutions/blob/master/insert-delete-getrandom-o1.md)
 * [Jump Game](https://github.com/MarcinusX/LeetCode_solutions/blob/master/jump-game.md)
 * [Partition Labels](https://github.com/MarcinusX/LeetCode_solutions/blob/master/partition-labels.md)
+* [Merge Intervals](https://github.com/MarcinusX/LeetCode_solutions/blob/master/merge-intervals.md)
+* [Permutation Sequence](https://github.com/MarcinusX/LeetCode_solutions/blob/master/permutation-sequence.md)
+* [Rotate List](https://github.com/MarcinusX/LeetCode_solutions/blob/master/rotate-list.md)
+* [Spiral Matrix II](https://github.com/MarcinusX/LeetCode_solutions/blob/master/spiral-matrix-ii.md)
+* [Unique Paths](https://github.com/MarcinusX/LeetCode_solutions/blob/master/unique-paths.md)
+* [Minimum Path Sum](https://github.com/MarcinusX/LeetCode_solutions/blob/master/minimum-path-sum.md)
 
 ## Easy
 * [Find All Anagrams in a String](https://github.com/MarcinusX/LeetCode_solutions/blob/master/find-all-anagrams-in-a-string.md)
@@ -89,5 +95,5 @@ My [LeetCode profile](https://leetcode.com/szaek/).
 * [Rotate array](https://github.com/MarcinusX/LeetCode_solutions/blob/master/rotate-array.md)
 * [Symmetric Tree](https://github.com/MarcinusX/LeetCode_solutions/blob/master/symmetric-tree.md)
 * [Two Sum II - Input array is sorted](https://github.com/MarcinusX/LeetCode_solutions/blob/master/two-sum-ii-input-array-is-sorted.md)
-
+* [Climbing Stairs](https://github.com/MarcinusX/LeetCode_solutions/blob/master/climbing-stairs.md)
 
