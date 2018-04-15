@@ -8,15 +8,16 @@ For every task there is an Github issue. Each issue has difficulty label.
 My [LeetCode profile](https://leetcode.com/szaek/).
 
 ## Statistics:
-* Hard: 3
-* Medium: 44
-* Easy: 31
-* **Total: 78** 
+* Hard: 4
+* Medium: 47
+* Easy: 34
+* **Total: 85** 
 
 ## Hard (not perfect solutions)
 * [Median of Two Sorted Arrays](https://github.com/MarcinusX/LeetCode_solutions/blob/master/median-of-two-sorted-arrays.md)
 * [Merge k sorted lists](https://github.com/MarcinusX/LeetCode_solutions/blob/master/merge-k-sorted-list.md)
 * [Trapping Rain Water](https://github.com/MarcinusX/LeetCode_solutions/blob/master/trapping-rain-water.md)
+* [Longest Valid Parentheses](https://github.com/MarcinusX/LeetCode_solutions/blob/master/longest-valid-parentheses.md)
 
 ## Medium
 * [3sum Closest](https://github.com/MarcinusX/LeetCode_solutions/blob/master/3sum-closest.md)
@@ -63,6 +64,10 @@ My [LeetCode profile](https://leetcode.com/szaek/).
 * [Spiral Matrix II](https://github.com/MarcinusX/LeetCode_solutions/blob/master/spiral-matrix-ii.md)
 * [Unique Paths](https://github.com/MarcinusX/LeetCode_solutions/blob/master/unique-paths.md)
 * [Minimum Path Sum](https://github.com/MarcinusX/LeetCode_solutions/blob/master/minimum-path-sum.md)
+* [Unique Paths II](https://github.com/MarcinusX/LeetCode_solutions/blob/master/unique-paths-ii.md)
+* [Multiply Strings](https://github.com/MarcinusX/LeetCode_solutions/blob/master/multiply-strings.md)
+* [Binary Tree Zigzag Level Order Traversal](https://github.com/MarcinusX/LeetCode_solutions/blob/master/binary-tree-zigzag-level-order-traversal.md)
+
 
 ## Easy
 * [Find All Anagrams in a String](https://github.com/MarcinusX/LeetCode_solutions/blob/master/find-all-anagrams-in-a-string.md)
@@ -96,4 +101,7 @@ My [LeetCode profile](https://leetcode.com/szaek/).
 * [Symmetric Tree](https://github.com/MarcinusX/LeetCode_solutions/blob/master/symmetric-tree.md)
 * [Two Sum II - Input array is sorted](https://github.com/MarcinusX/LeetCode_solutions/blob/master/two-sum-ii-input-array-is-sorted.md)
 * [Climbing Stairs](https://github.com/MarcinusX/LeetCode_solutions/blob/master/climbing-stairs.md)
+* [Binary Tree Level Order Traversal II](https://github.com/MarcinusX/LeetCode_solutions/blob/master/binary-tree-level-order-traversal-ii.md)
+* [Maximum Depth of Binary Tree](https://github.com/MarcinusX/LeetCode_solutions/blob/master/maximum-depth-of-binary-tree.md)
+* [Single Number](https://github.com/MarcinusX/LeetCode_solutions/blob/master/single-number.md)
 
