@@ -9,9 +9,9 @@ My [LeetCode profile](https://leetcode.com/szaek/).
 
 ## Statistics:
 * Hard: 4
-* Medium: 47
-* Easy: 34
-* **Total: 85** 
+* Medium: 52
+* Easy: 36
+* **Total: 92** 
 
 ## Hard (not perfect solutions)
 * [Median of Two Sorted Arrays](https://github.com/MarcinusX/LeetCode_solutions/blob/master/median-of-two-sorted-arrays.md)
@@ -67,7 +67,11 @@ My [LeetCode profile](https://leetcode.com/szaek/).
 * [Unique Paths II](https://github.com/MarcinusX/LeetCode_solutions/blob/master/unique-paths-ii.md)
 * [Multiply Strings](https://github.com/MarcinusX/LeetCode_solutions/blob/master/multiply-strings.md)
 * [Binary Tree Zigzag Level Order Traversal](https://github.com/MarcinusX/LeetCode_solutions/blob/master/binary-tree-zigzag-level-order-traversal.md)
-
+* [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/MarcinusX/LeetCode_solutions/blob/master/construct-binary-tree-from-preorder-and-inorder-traversal.md)
+* [Convert Sorted List to Binary Search Tree](https://github.com/MarcinusX/LeetCode_solutions/blob/master/convert-sorted-list-to-binary-search-tree.md)
+* [Flatten Binary Tree to Linked List](https://github.com/MarcinusX/LeetCode_solutions/blob/master/flatten-binary-tree-to-linked-list.md)
+* [Path Sum II](https://github.com/MarcinusX/LeetCode_solutions/blob/master/path-sum-ii.md)
+* [Populating Next Right Pointers in Each Node](https://github.com/MarcinusX/LeetCode_solutions/blob/master/populating-next-right-pointers-in-each-node.md)
 
 ## Easy
 * [Find All Anagrams in a String](https://github.com/MarcinusX/LeetCode_solutions/blob/master/find-all-anagrams-in-a-string.md)
@@ -104,4 +108,5 @@ My [LeetCode profile](https://leetcode.com/szaek/).
 * [Binary Tree Level Order Traversal II](https://github.com/MarcinusX/LeetCode_solutions/blob/master/binary-tree-level-order-traversal-ii.md)
 * [Maximum Depth of Binary Tree](https://github.com/MarcinusX/LeetCode_solutions/blob/master/maximum-depth-of-binary-tree.md)
 * [Single Number](https://github.com/MarcinusX/LeetCode_solutions/blob/master/single-number.md)
-
+* [Balanced Binary Tree](https://github.com/MarcinusX/LeetCode_solutions/blob/master/balanced-binary-tree.md)
+* [Convert Sorted Array to Binary Search Tree](https://github.com/MarcinusX/LeetCode_solutions/blob/master/convert-sorted-array-to-binary-search-tree.md)
