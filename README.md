@@ -9,9 +9,9 @@ My [LeetCode profile](https://leetcode.com/szaek/).
 
 ## Statistics:
 * Hard: 4
-* Medium: 52
-* Easy: 36
-* **Total: 92** 
+* Medium: 56
+* Easy: 39
+* **Total: 99** 
 
 ## Hard (not perfect solutions)
 * [Median of Two Sorted Arrays](https://github.com/MarcinusX/LeetCode_solutions/blob/master/median-of-two-sorted-arrays.md)
@@ -72,6 +72,11 @@ My [LeetCode profile](https://leetcode.com/szaek/).
 * [Flatten Binary Tree to Linked List](https://github.com/MarcinusX/LeetCode_solutions/blob/master/flatten-binary-tree-to-linked-list.md)
 * [Path Sum II](https://github.com/MarcinusX/LeetCode_solutions/blob/master/path-sum-ii.md)
 * [Populating Next Right Pointers in Each Node](https://github.com/MarcinusX/LeetCode_solutions/blob/master/populating-next-right-pointers-in-each-node.md)
+* [Binary Tree Inorder Traversal](https://github.com/MarcinusX/LeetCode_solutions/blob/master/binary-tree-inorder-traversal.md)
+* [Populating Next Right Pointers in Each Node II](https://github.com/MarcinusX/LeetCode_solutions/blob/master/populating-next-right-pointers-in-each-node-ii.md)
+* [Search a 2D Matrix](https://github.com/MarcinusX/LeetCode_solutions/blob/master/populating-next-right-pointers-in-each-node-ii.md)
+* [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/MarcinusX/LeetCode_solutions/blob/master/construct-binary-tree-from-inorder-and-postorder-traversal.md)
+
 
 ## Easy
 * [Find All Anagrams in a String](https://github.com/MarcinusX/LeetCode_solutions/blob/master/find-all-anagrams-in-a-string.md)
@@ -110,3 +115,7 @@ My [LeetCode profile](https://leetcode.com/szaek/).
 * [Single Number](https://github.com/MarcinusX/LeetCode_solutions/blob/master/single-number.md)
 * [Balanced Binary Tree](https://github.com/MarcinusX/LeetCode_solutions/blob/master/balanced-binary-tree.md)
 * [Convert Sorted Array to Binary Search Tree](https://github.com/MarcinusX/LeetCode_solutions/blob/master/convert-sorted-array-to-binary-search-tree.md)
+* [Add Binary](https://github.com/MarcinusX/LeetCode_solutions/blob/master/add-binary.md)
+* [Path Sum](https://github.com/MarcinusX/LeetCode_solutions/blob/master/path-sum.md)
+* [Minimum Depth of Binary Tree](https://github.com/MarcinusX/LeetCode_solutions/blob/master/minimum-depth-of-binary-tree.md)
+
