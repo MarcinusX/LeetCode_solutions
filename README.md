@@ -10,8 +10,8 @@ My [LeetCode profile](https://leetcode.com/szaek/).
 ## Statistics:
 * Hard: 4
 * Medium: 56
-* Easy: 39
-* **Total: 99** 
+* Easy: 46
+* **Total: 106** 
 
 ## Hard (not perfect solutions)
 * [Median of Two Sorted Arrays](https://github.com/MarcinusX/LeetCode_solutions/blob/master/median-of-two-sorted-arrays.md)
@@ -118,4 +118,12 @@ My [LeetCode profile](https://leetcode.com/szaek/).
 * [Add Binary](https://github.com/MarcinusX/LeetCode_solutions/blob/master/add-binary.md)
 * [Path Sum](https://github.com/MarcinusX/LeetCode_solutions/blob/master/path-sum.md)
 * [Minimum Depth of Binary Tree](https://github.com/MarcinusX/LeetCode_solutions/blob/master/minimum-depth-of-binary-tree.md)
+* [Number of 1 bits](https://github.com/MarcinusX/LeetCode_solutions/blob/master/number-of-1-bits.md)
+* [Remove Linked Lists Elements](https://github.com/MarcinusX/LeetCode_solutions/blob/master/remove-linked-list-elements.md)
+* [Happy Number](https://github.com/MarcinusX/LeetCode_solutions/blob/master/happy-number.md)
+* [House Robber](https://github.com/MarcinusX/LeetCode_solutions/blob/master/house-robber.md)
+* [Excel Sheet Column Number](https://github.com/MarcinusX/LeetCode_solutions/blob/master/excel-sheet-column-number.md)
+* [Excel Sheet Column Title](https://github.com/MarcinusX/LeetCode_solutions/blob/master/excel-sheet-column-title.md)
+* [Majority Element](https://github.com/MarcinusX/LeetCode_solutions/blob/master/majority-element.md)
+
 
